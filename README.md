@@ -4,3 +4,5 @@ My practice repo for learning to become an AI engineer. Each folder holds small 
 
 ## Contents
 - `python/library-management`: a library system practicing classes, properties, inheritance, dunder methods, and dataclasses
+
+- `python/files`: file handling practice (reading in chunks, writing, binary copy)
