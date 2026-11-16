@@ -3,6 +3,11 @@ import logging
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+DATA_FILE = os.getenv("DATA_FILE", "contacts.json")
 
 # logging config
 logging.basicConfig(
@@ -114,7 +119,6 @@ class ContactBook:
 #         if name not in self.names:
 #             raise ContactNotFoundError("Not present")
 
-DATA_FILE = "contacts.json"
 
 
 def show_menu():
