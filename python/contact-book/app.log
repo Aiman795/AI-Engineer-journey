@@ -1,0 +1,9 @@
+2026-11-16 13:41:42,398 - INFO - Added contact: Ali
+2026-11-16 13:41:42,399 - INFO - Added contact: Sara
+2026-11-16 13:41:42,399 - INFO - Deleted contact: Sara
+2026-11-16 13:41:42,403 - INFO - Loaded 1 contacts from contacts.json
+2026-11-16 13:43:04,533 - WARNING - contacts.json not found, starting empty
+2026-11-16 13:47:08,300 - WARNING - contacts.json not found, starting empty
+2026-11-16 13:47:37,067 - INFO - Added contact: aiman
+2026-11-16 13:48:04,571 - INFO - Added contact: ali
+2026-11-16 13:48:22,719 - INFO - Deleted contact: ali
