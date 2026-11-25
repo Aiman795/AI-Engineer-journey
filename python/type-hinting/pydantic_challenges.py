@@ -14,4 +14,4 @@ class Contact(BaseModel):
 # c=Contact(name="aiman",email="aiman.gmail.com",phone=123456) 2 validation errors for Contact email
 # c=Contact(name="Aiman", phone="0300123456") passed
 # c=Contact(name="", phone="abc") 2 validation errors for Contact name
-print(c)
+# print(c)
